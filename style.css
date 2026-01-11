@@ -1,0 +1,9 @@
+#logo {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.logo-img {
+  max-width: 220px;   /* চাইলে কম / বেশি করো */
+  height: auto;
+}
